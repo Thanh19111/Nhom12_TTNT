@@ -4,7 +4,7 @@
 
 ## Quy trình hoạt động
 
-1. Chụp ảnh từ webcam bằng OpenCV.
+1. Chụp ảnh từ webcam, nhập tệp ảnh hoặc video bằng OpenCV.
 2. Gửi ảnh vào mô hình YOLO để phát hiện khuôn mặt.
 3. Nhận kết quả từ YOLO (bounding boxes).
 4. OpenCV vẽ khung lên khuôn mặt và hiển thị ảnh đã xử lý.
