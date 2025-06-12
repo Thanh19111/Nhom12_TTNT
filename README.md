@@ -1,4 +1,3 @@
-# nhandienkhuonmatopencv
 # Nhận diện khuôn mặt với YOLO và OpenCV
 
 Đề tài sử dụng YOLOv11 của thư viện Ultralytics để nhận diện khuôn mặt và OpenCV để xử lý ảnh (chụp ảnh, hiển thị kết quả).
