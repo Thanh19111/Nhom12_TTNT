@@ -32,7 +32,7 @@ Do giới hạn dung lượng GitHub, bạn có thể tải toàn bộ dự án 
 - Python 3.x
 - OpenCV (`pip install opencv-python`)
 - Ultralytics YOLOv11 (`pip install ultralytics`)
-- Giao diện Đồ họa Thinker (`import tkinter`)
+- Giao diện Đồ họa Thinker (`pip install tkinter`)
 
 
 
