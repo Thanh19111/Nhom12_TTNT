@@ -1,4 +1,4 @@
-# Nhận diện khuôn mặt với YOLO và OpenCV
+# Xây dựng ứng dụng nhận diện khuôn mặt với YOLO và OpenCV
 
 Đề tài XÂY DỰNG ỨNG DỤNG NHẬN DIỆN KHUÔN MẶT VỚI YOLOv11 VÀ OPENCV.
 
