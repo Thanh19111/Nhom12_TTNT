@@ -11,7 +11,7 @@
    
 ## Hướng dẫn sử dụng
 1. Tải các thư viện cần thiết bằng pip
-2. Chạy file main.py(`python main.py`)
+2. Chạy file main.py (`python main.py`)
 3. Lựa chọn chức năng trong GUI
    - Option 1: Nhận diện thông qua webcam
    - Option 2: Nhận diện thông qua video được nhập
@@ -32,7 +32,7 @@ Do giới hạn dung lượng GitHub, bạn có thể tải toàn bộ dự án 
 - Python 3.x
 - OpenCV (`pip install opencv-python`)
 - Ultralytics YOLOv11 (`pip install ultralytics`)
-- Giao diện Đồ họa Thinker(`import tkinter`)
+- Giao diện Đồ họa Thinker (`import tkinter`)
 
 
 
