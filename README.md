@@ -9,6 +9,16 @@
 2. Gửi ảnh vào mô hình YOLO để phát hiện khuôn mặt.
 3. Nhận kết quả từ YOLO (bounding boxes).
 4. OpenCV vẽ khung lên khuôn mặt và hiển thị ảnh đã xử lý.
+   
+## Hướng dẫn sử dụng
+1. Tải các thư viện cần thiết bằng pip
+2. Chạy file main.py(`python main.py`)
+3. Lựa chọn chức năng trong GUI
+   - Option 1: Nhận diện thông qua webcam
+   - Option 2: Nhận diện thông qua video được nhập
+   - Option 3: Nhận diện thông qua hình dảnh được nhập
+4. Nhấn nút "q" trên bàn phím để thoát chức năng
+5. Nhấn nút "q" trên bàn phím để thoát chương trình
 
 ## Tải về dự án
 
@@ -23,6 +33,7 @@ Do giới hạn dung lượng GitHub, bạn có thể tải toàn bộ dự án 
 - Python 3.x
 - OpenCV (`pip install opencv-python`)
 - Ultralytics YOLOv11 (`pip install ultralytics`)
+- Giao diện Đồ họa Thinker(`import tkinter`)
 
 
 
